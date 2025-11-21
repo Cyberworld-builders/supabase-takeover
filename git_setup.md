@@ -1,4 +1,12 @@
-Here’s a straightforward, up-to-date (November 2025) guide to install **Git** and the **GitHub CLI (gh)** on your system and authenticate with GitHub — everything from the terminal.
+# Git Workflow & Setup Guide
+
+[← Back to Overview](./README.md) | [← Takeover Strategy](./sb_takeover.md)
+
+---
+
+## Git and GitHub CLI Installation
+
+Here's a straightforward, up-to-date (November 2025) guide to install **Git** and the **GitHub CLI (gh)** on your system and authenticate with GitHub — everything from the terminal.
 
 ### 1. Install Git
 
@@ -137,6 +145,12 @@ gh repo create test-repo --public --source=.
 git push -u origin main
 ```
 
-You’re all set! From now on `git` and `gh` will just work with your GitHub account without asking for credentials every time.
+You're all set! From now on `git` and `gh` will just work with your GitHub account without asking for credentials every time.
 
-Let me know which OS you’re on if you hit any snag — happy to give the exact commands for your setup.
+Let me know which OS you're on if you hit any snag — happy to give the exact commands for your setup.
+
+---
+
+## Navigation
+
+[← Back to Overview](./README.md) | [← Takeover Strategy](./sb_takeover.md)

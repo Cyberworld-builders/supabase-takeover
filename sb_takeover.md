@@ -1,3 +1,13 @@
+# Supabase Takeover Strategy - Technical Implementation
+
+[← Back to Overview](./README.md) | [Git Workflow →](./git_setup.md)
+
+---
+
+## Complete Migration Guide
+
+This document provides the step-by-step technical implementation for migrating from Supabase Cloud to a self-hosted Supabase instance.
+
 ### Prerequisites (run once)
 - Install the latest Supabase CLI: `npm install -g supabase` (or use brew on macOS: `brew install supabase/tap/supabase`)
 - Log in to both Supabase accounts (old and new) in your terminal:
@@ -169,3 +179,9 @@ vercel --prod          # force fresh deploy
 - Point your domain/custom domain to the new Vercel project
 
 You now have a completely independent copy under your control, fully CLI-driven, and everything (schema, functions, secrets) is version-controlled in git. Let me know which step you want to dive deeper into!
+
+---
+
+## Navigation
+
+[← Back to Overview](./README.md) | [Git Workflow →](./git_setup.md)
