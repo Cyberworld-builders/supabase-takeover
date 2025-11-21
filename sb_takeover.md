@@ -6,7 +6,7 @@
 
 ## Complete Migration Guide
 
-This document provides the step-by-step technical implementation for migrating from Supabase Cloud to a self-hosted Supabase instance.
+This document provides the step-by-step technical implementation for exporting a Supabase project from one account and deploying it to a new Supabase account.
 
 ### Prerequisites (run once)
 - Install the latest Supabase CLI: `npm install -g supabase` (or use brew on macOS: `brew install supabase/tap/supabase`)
